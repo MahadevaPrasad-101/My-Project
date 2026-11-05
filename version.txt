@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Version: 2.0-main
+=======
+Version: 1.0
+Version: 1.0-feature
+>>>>>>> feature-version
